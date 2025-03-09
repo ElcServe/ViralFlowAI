@@ -1,0 +1,13 @@
+C:\Users\hetal>git --version
+git version 2.48.1.windows.1
+
+C:\Users\hetal>git config --global user.name "ElcServe"
+
+C:\Users\hetal>git config --global user.email "elcserve@gmail.com"
+
+C:\Users\hetal>git config --global --list
+core.editor="C:\Users\hetal\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+user.name=ElcServe
+user.email=elcserve@gmail.com
+
+C:\Users\hetal>
